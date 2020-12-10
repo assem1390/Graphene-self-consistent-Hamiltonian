@@ -1,2 +1,2 @@
 # Graphene
-self consistent Hamiltonian for Graphene nano ribbons 
+self consistent Hamiltonian based on Hubbared model for many layers of Graphene ABC stacking
